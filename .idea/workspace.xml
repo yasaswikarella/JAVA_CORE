@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3693dcf3-4846-400a-803c-50bae6d11692" name="Changes" comment="My First Code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day0/Methodz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day0/Methodz.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,14 +49,20 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ConvertFahrenheit.executor": "Run",
+    "Application.Employee.executor": "Run",
     "Application.EvenorOdd.executor": "Run",
+    "Application.FruitSwitch.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.Methodz.executor": "Run",
+    "Application.OperatorSwitch.executor": "Run",
     "Application.PrimitiveTypePrinting.executor": "Run",
     "Application.SumAvgOf3.executor": "Run",
     "Application.Swap.executor": "Run",
     "Application.SwapDirect.executor": "Run",
     "Application.SwapUsingTemp.executor": "Run",
+    "Application.Year.executor": "Run",
+    "Application.day.executor": "Run",
+    "Application.gradeSwitch.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
